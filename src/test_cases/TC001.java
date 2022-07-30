@@ -5,6 +5,7 @@ public class TC001 {
 
         // testing zoom in button
 
+        // testing zoom out button
 
     }
 }
